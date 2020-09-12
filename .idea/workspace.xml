@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f2a340-a3d2-458d-8f99-6dd1e4d0905a" name="Default Changelist" comment="python">
-      <change afterPath="$PROJECT_DIR$/00.basic/04. PEP8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00.basic/05. 제어문.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00.basic/06.list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00.basic/07.for반복문.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00.basic/08.dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.basic/01.intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.basic/01.intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.basic/02.자료형.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.basic/02.자료형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.basic/03.추상화.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.basic/03.추상화.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +51,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.05. 제어문">
-    <configuration name="01.intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06.list">
+    <configuration name="문제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_codeit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,49 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.basic/01.intro.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02.자료형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_codeit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.basic/02.자료형.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03.추상화" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_codeit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.basic/03.추상화.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.basic/문제.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,12 +94,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="06.문제 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_codeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.basic/06.문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06.문제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_codeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Python_codeit\00.basic\06.문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06.list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_codeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.basic/06.list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06.list" />
+        <item itemvalue="Python.문제" />
+        <item itemvalue="Python.06.문제 (1)" />
+        <item itemvalue="Python.06.문제" />
         <item itemvalue="Python.05. 제어문" />
-        <item itemvalue="Python.03.추상화" />
-        <item itemvalue="Python.02.자료형" />
-        <item itemvalue="Python.01.intro" />
       </list>
     </recent_temporary>
   </component>
@@ -183,22 +203,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="python" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="29" height="865" key="GridCell.Tab.0.bottom" timestamp="1599843362288">
+    <state x="1126" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599907526566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="29" height="865" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599843362288" />
-    <state width="29" height="865" key="GridCell.Tab.0.center" timestamp="1599843362288">
+    <state x="1126" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599907526566" />
+    <state width="304" height="865" key="GridCell.Tab.0.bottom" timestamp="1599910601645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="29" height="865" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599843362288" />
-    <state width="29" height="865" key="GridCell.Tab.0.left" timestamp="1599843362288">
+    <state width="304" height="865" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599910601645" />
+    <state width="304" height="865" key="GridCell.Tab.0.center" timestamp="1599910601645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="29" height="865" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599843362288" />
-    <state width="29" height="865" key="GridCell.Tab.0.right" timestamp="1599843362288">
+    <state width="304" height="865" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599910601645" />
+    <state width="304" height="865" key="GridCell.Tab.0.left" timestamp="1599910601645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="29" height="865" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599843362288" />
+    <state width="304" height="865" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599910601645" />
+    <state width="304" height="865" key="GridCell.Tab.0.right" timestamp="1599910601645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="304" height="865" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599910601645" />
     <state x="1278" y="210" key="RollbackChangesDialog" timestamp="1599659335456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
